@@ -267,7 +267,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <ul>
     <li><a href="https://www.github.com/DennisMuia">Github</a></li>
 </li>
-    <li><a href="dennismuia.dm<details>
+    <li><a href="dennismuia.dm@gmail.com<details>
     <ul>
 </details>
 <details>
